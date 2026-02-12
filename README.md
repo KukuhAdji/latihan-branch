@@ -1,3 +1,2 @@
-# latihan-branch
-Ini adalah branch untuk latihan
-saya ingin mencoba git checkout
+# ini adalah repository untuk latihan membuat branch baru di github
+github itu asyik lo
